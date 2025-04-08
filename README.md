@@ -22,6 +22,12 @@
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="./screenshot.png" alt="Screenshot of Memory Viewer UI" width="800" />
+</p>
+
 ## 🛠 Getting Started
 
 ### 📦 Build the core (Rust → WASM)
