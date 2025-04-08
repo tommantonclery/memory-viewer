@@ -75,4 +75,3 @@ Open an [issue](https://github.com/tomc2154/memory-viewer/issues) or submit a [p
 
 MIT License.  
 See [`LICENSE`](./LICENSE) for full details.
-```
